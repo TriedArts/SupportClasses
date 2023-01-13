@@ -20,10 +20,8 @@ public class Log
     // S T A T I C  C O N S T A N T S
     /**
      * logFileName: defaultName for logfiles "translucentpen.com.log"
-     *
-     * @author Patrick Ebert
-     * @version 0.01
      */
+
     public static final String logFileName = "translucentpen.com.log";
 
     // S T A T I C  M E T H O D E S
